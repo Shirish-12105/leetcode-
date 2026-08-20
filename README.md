@@ -23,4 +23,13 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Shirish-12105/leetcode-/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Shirish-12105/leetcode-/tree/master/0013-roman-to-integer) |
+| [0258-add-digits](https://github.com/Shirish-12105/leetcode-/tree/master/0258-add-digits) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Shirish-12105/leetcode-/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Shirish-12105/leetcode-/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
