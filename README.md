@@ -6,6 +6,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Shirish-12105/leetcode-/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Shirish-12105/leetcode-/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Shirish-12105/leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Shirish-12105/leetcode-/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Shirish-12105/leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Shirish-12105/leetcode-/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
