@@ -15,6 +15,7 @@
 | [0014-longest-common-prefix](https://github.com/Shirish-12105/leetcode-/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Shirish-12105/leetcode-/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shirish-12105/leetcode-/tree/master/0387-first-unique-character-in-a-string) |
+| [0709-to-lower-case](https://github.com/Shirish-12105/leetcode-/tree/master/0709-to-lower-case) |
 ## Trie
 |  |
 | ------- |
