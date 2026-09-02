@@ -9,6 +9,7 @@
 | [0016-3sum-closest](https://github.com/Shirish-12105/leetcode-/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shirish-12105/leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shirish-12105/leetcode-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Shirish-12105/leetcode-/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 | [0013-roman-to-integer](https://github.com/Shirish-12105/leetcode-/tree/master/0013-roman-to-integer) |
 | [0258-add-digits](https://github.com/Shirish-12105/leetcode-/tree/master/0258-add-digits) |
 | [2652-sum-multiples](https://github.com/Shirish-12105/leetcode-/tree/master/2652-sum-multiples) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Shirish-12105/leetcode-/tree/master/3875-construct-uniform-parity-array-i) |
 ## Simulation
 |  |
 | ------- |
