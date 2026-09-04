@@ -12,6 +12,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shirish-12105/leetcode-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shirish-12105/leetcode-/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Shirish-12105/leetcode-/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/Shirish-12105/leetcode-/tree/master/3903-smallest-stable-index-i) |
 ## String
 |  |
 | ------- |
@@ -68,4 +69,8 @@
 | ------- |
 | [0015-3sum](https://github.com/Shirish-12105/leetcode-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Shirish-12105/leetcode-/tree/master/0016-3sum-closest) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/Shirish-12105/leetcode-/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
