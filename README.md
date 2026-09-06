@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shirish-12105/leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Shirish-12105/leetcode-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Shirish-12105/leetcode-/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Shirish-12105/leetcode-/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shirish-12105/leetcode-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shirish-12105/leetcode-/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Shirish-12105/leetcode-/tree/master/3876-construct-uniform-parity-array-ii) |
