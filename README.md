@@ -9,6 +9,7 @@
 | [0016-3sum-closest](https://github.com/Shirish-12105/leetcode-/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shirish-12105/leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shirish-12105/leetcode-/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Shirish-12105/leetcode-/tree/master/0035-search-insert-position) |
 | [0189-rotate-array](https://github.com/Shirish-12105/leetcode-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Shirish-12105/leetcode-/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Shirish-12105/leetcode-/tree/master/0485-max-consecutive-ones) |
@@ -78,4 +79,8 @@
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/Shirish-12105/leetcode-/tree/master/3903-smallest-stable-index-i) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Shirish-12105/leetcode-/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
