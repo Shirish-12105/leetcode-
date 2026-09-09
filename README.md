@@ -14,6 +14,7 @@
 | [0283-move-zeroes](https://github.com/Shirish-12105/leetcode-/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Shirish-12105/leetcode-/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shirish-12105/leetcode-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2974-minimum-number-game](https://github.com/Shirish-12105/leetcode-/tree/master/2974-minimum-number-game) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shirish-12105/leetcode-/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Shirish-12105/leetcode-/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Shirish-12105/leetcode-/tree/master/3903-smallest-stable-index-i) |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Shirish-12105/leetcode-/tree/master/0258-add-digits) |
+| [2974-minimum-number-game](https://github.com/Shirish-12105/leetcode-/tree/master/2974-minimum-number-game) |
 ## Number Theory
 |  |
 | ------- |
@@ -75,6 +77,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Shirish-12105/leetcode-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Shirish-12105/leetcode-/tree/master/0016-3sum-closest) |
+| [2974-minimum-number-game](https://github.com/Shirish-12105/leetcode-/tree/master/2974-minimum-number-game) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -83,4 +86,8 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Shirish-12105/leetcode-/tree/master/0035-search-insert-position) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/Shirish-12105/leetcode-/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
