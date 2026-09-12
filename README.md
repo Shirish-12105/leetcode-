@@ -16,6 +16,7 @@
 | [0485-max-consecutive-ones](https://github.com/Shirish-12105/leetcode-/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shirish-12105/leetcode-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2974-minimum-number-game](https://github.com/Shirish-12105/leetcode-/tree/master/2974-minimum-number-game) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Shirish-12105/leetcode-/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shirish-12105/leetcode-/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Shirish-12105/leetcode-/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Shirish-12105/leetcode-/tree/master/3903-smallest-stable-index-i) |
@@ -44,6 +45,7 @@
 | [0189-rotate-array](https://github.com/Shirish-12105/leetcode-/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Shirish-12105/leetcode-/tree/master/0258-add-digits) |
 | [2652-sum-multiples](https://github.com/Shirish-12105/leetcode-/tree/master/2652-sum-multiples) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Shirish-12105/leetcode-/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shirish-12105/leetcode-/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Shirish-12105/leetcode-/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Simulation
