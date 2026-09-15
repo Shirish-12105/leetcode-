@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shirish-12105/leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shirish-12105/leetcode-/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Shirish-12105/leetcode-/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/Shirish-12105/leetcode-/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Shirish-12105/leetcode-/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Shirish-12105/leetcode-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Shirish-12105/leetcode-/tree/master/0283-move-zeroes) |
@@ -43,6 +44,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Shirish-12105/leetcode-/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Shirish-12105/leetcode-/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Shirish-12105/leetcode-/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Shirish-12105/leetcode-/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Shirish-12105/leetcode-/tree/master/0258-add-digits) |
 | [2652-sum-multiples](https://github.com/Shirish-12105/leetcode-/tree/master/2652-sum-multiples) |
