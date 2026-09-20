@@ -29,6 +29,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Shirish-12105/leetcode-/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Shirish-12105/leetcode-/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Shirish-12105/leetcode-/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shirish-12105/leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Shirish-12105/leetcode-/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shirish-12105/leetcode-/tree/master/0387-first-unique-character-in-a-string) |
@@ -109,6 +110,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Shirish-12105/leetcode-/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/Shirish-12105/leetcode-/tree/master/0682-baseball-game) |
 ## Divide and Conquer
 |  |
@@ -138,4 +140,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shirish-12105/leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Shirish-12105/leetcode-/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
