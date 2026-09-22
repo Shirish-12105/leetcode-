@@ -55,6 +55,7 @@
 | [0189-rotate-array](https://github.com/Shirish-12105/leetcode-/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Shirish-12105/leetcode-/tree/master/0258-add-digits) |
 | [2652-sum-multiples](https://github.com/Shirish-12105/leetcode-/tree/master/2652-sum-multiples) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/Shirish-12105/leetcode-/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Shirish-12105/leetcode-/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shirish-12105/leetcode-/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Shirish-12105/leetcode-/tree/master/3876-construct-uniform-parity-array-ii) |
