@@ -19,6 +19,7 @@
 | [0485-max-consecutive-ones](https://github.com/Shirish-12105/leetcode-/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/Shirish-12105/leetcode-/tree/master/0682-baseball-game) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shirish-12105/leetcode-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/Shirish-12105/leetcode-/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/Shirish-12105/leetcode-/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/Shirish-12105/leetcode-/tree/master/2974-minimum-number-game) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Shirish-12105/leetcode-/tree/master/3232-find-if-digit-game-can-be-won) |
