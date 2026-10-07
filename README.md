@@ -40,6 +40,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shirish-12105/leetcode-/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Shirish-12105/leetcode-/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/Shirish-12105/leetcode-/tree/master/2942-find-words-containing-character) |
+| [3019-number-of-changing-keys](https://github.com/Shirish-12105/leetcode-/tree/master/3019-number-of-changing-keys) |
 ## Trie
 |  |
 | ------- |
