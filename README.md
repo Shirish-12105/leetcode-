@@ -37,6 +37,7 @@
 | [0125-valid-palindrome](https://github.com/Shirish-12105/leetcode-/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shirish-12105/leetcode-/tree/master/0387-first-unique-character-in-a-string) |
 | [0709-to-lower-case](https://github.com/Shirish-12105/leetcode-/tree/master/0709-to-lower-case) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Shirish-12105/leetcode-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shirish-12105/leetcode-/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Shirish-12105/leetcode-/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/Shirish-12105/leetcode-/tree/master/2942-find-words-containing-character) |
@@ -122,6 +123,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shirish-12105/leetcode-/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/Shirish-12105/leetcode-/tree/master/0682-baseball-game) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Shirish-12105/leetcode-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -154,4 +156,9 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shirish-12105/leetcode-/tree/master/0020-valid-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Shirish-12105/leetcode-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Greedy
+|  |
+| ------- |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Shirish-12105/leetcode-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->
