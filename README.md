@@ -36,6 +36,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shirish-12105/leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Shirish-12105/leetcode-/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Shirish-12105/leetcode-/tree/master/0125-valid-palindrome) |
+| [0257-binary-tree-paths](https://github.com/Shirish-12105/leetcode-/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shirish-12105/leetcode-/tree/master/0387-first-unique-character-in-a-string) |
 | [0709-to-lower-case](https://github.com/Shirish-12105/leetcode-/tree/master/0709-to-lower-case) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Shirish-12105/leetcode-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -162,4 +163,20 @@
 |  |
 | ------- |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Shirish-12105/leetcode-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Shirish-12105/leetcode-/tree/master/0257-binary-tree-paths) |
+## Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Shirish-12105/leetcode-/tree/master/0257-binary-tree-paths) |
+## Depth-First Search
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Shirish-12105/leetcode-/tree/master/0257-binary-tree-paths) |
+## Binary Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Shirish-12105/leetcode-/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
