@@ -36,6 +36,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shirish-12105/leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Shirish-12105/leetcode-/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Shirish-12105/leetcode-/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Shirish-12105/leetcode-/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Shirish-12105/leetcode-/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/Shirish-12105/leetcode-/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shirish-12105/leetcode-/tree/master/0387-first-unique-character-in-a-string) |
@@ -54,6 +55,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Shirish-12105/leetcode-/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Shirish-12105/leetcode-/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Shirish-12105/leetcode-/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Shirish-12105/leetcode-/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shirish-12105/leetcode-/tree/master/0387-first-unique-character-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shirish-12105/leetcode-/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -109,6 +111,7 @@
 | [0016-3sum-closest](https://github.com/Shirish-12105/leetcode-/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/Shirish-12105/leetcode-/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Shirish-12105/leetcode-/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Shirish-12105/leetcode-/tree/master/0242-valid-anagram) |
 | [2974-minimum-number-game](https://github.com/Shirish-12105/leetcode-/tree/master/2974-minimum-number-game) |
 ## Prefix Sum
 |  |
