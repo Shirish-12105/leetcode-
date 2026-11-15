@@ -15,6 +15,7 @@
 | [0136-single-number](https://github.com/Shirish-12105/leetcode-/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Shirish-12105/leetcode-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Shirish-12105/leetcode-/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Shirish-12105/leetcode-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shirish-12105/leetcode-/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Shirish-12105/leetcode-/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/Shirish-12105/leetcode-/tree/master/0682-baseball-game) |
@@ -56,6 +57,7 @@
 | [0013-roman-to-integer](https://github.com/Shirish-12105/leetcode-/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Shirish-12105/leetcode-/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Shirish-12105/leetcode-/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Shirish-12105/leetcode-/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Shirish-12105/leetcode-/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shirish-12105/leetcode-/tree/master/0387-first-unique-character-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shirish-12105/leetcode-/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -67,6 +69,7 @@
 | [0066-plus-one](https://github.com/Shirish-12105/leetcode-/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Shirish-12105/leetcode-/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Shirish-12105/leetcode-/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Shirish-12105/leetcode-/tree/master/0268-missing-number) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Shirish-12105/leetcode-/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/Shirish-12105/leetcode-/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Shirish-12105/leetcode-/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -112,6 +115,7 @@
 | [0088-merge-sorted-array](https://github.com/Shirish-12105/leetcode-/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Shirish-12105/leetcode-/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Shirish-12105/leetcode-/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Shirish-12105/leetcode-/tree/master/0268-missing-number) |
 | [2974-minimum-number-game](https://github.com/Shirish-12105/leetcode-/tree/master/2974-minimum-number-game) |
 ## Prefix Sum
 |  |
@@ -121,6 +125,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Shirish-12105/leetcode-/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/Shirish-12105/leetcode-/tree/master/0268-missing-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -143,6 +148,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Shirish-12105/leetcode-/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Shirish-12105/leetcode-/tree/master/0268-missing-number) |
 ## String Matching
 |  |
 | ------- |
