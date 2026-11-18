@@ -18,6 +18,7 @@
 | [0268-missing-number](https://github.com/Shirish-12105/leetcode-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shirish-12105/leetcode-/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Shirish-12105/leetcode-/tree/master/0485-max-consecutive-ones) |
+| [0561-array-partition](https://github.com/Shirish-12105/leetcode-/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/Shirish-12105/leetcode-/tree/master/0682-baseball-game) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shirish-12105/leetcode-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Shirish-12105/leetcode-/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -116,6 +117,7 @@
 | [0169-majority-element](https://github.com/Shirish-12105/leetcode-/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Shirish-12105/leetcode-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shirish-12105/leetcode-/tree/master/0268-missing-number) |
+| [0561-array-partition](https://github.com/Shirish-12105/leetcode-/tree/master/0561-array-partition) |
 | [2974-minimum-number-game](https://github.com/Shirish-12105/leetcode-/tree/master/2974-minimum-number-game) |
 ## Prefix Sum
 |  |
@@ -173,6 +175,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Shirish-12105/leetcode-/tree/master/0561-array-partition) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Shirish-12105/leetcode-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Backtracking
 |  |
@@ -190,4 +193,8 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Shirish-12105/leetcode-/tree/master/0257-binary-tree-paths) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Shirish-12105/leetcode-/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
